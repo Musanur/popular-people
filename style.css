@@ -1,0 +1,88 @@
+ body{
+            background-color: #E5E5E5 !important;
+        }
+
+.navbar img{
+    width: 40px;
+}
+
+.navbar ul li{
+    margin-left: 20px;
+}
+
+.navbar .container{
+    width: 880px;
+}
+
+.player img{
+    width: 56px;
+}
+
+
+main{
+    width: 850px;
+}
+
+.top-player{
+    background-color: #FFFFFF;
+   
+}
+.border-left-0{
+    border-bottom: 2px solid rgb(145, 143, 143);
+}
+
+.blog-heading{
+    color: #562EFF;
+}
+.blog img{
+    width: 177px;
+    height: 117px;
+}
+
+.blog-area-paragraph{
+    width: 197px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.color-gray{
+    font-size: 16px;
+    color: #9F9F9F;
+}
+
+.color-blue{
+    font-size: 16px;
+    color: #562EFF;
+    line-height: 20px;  
+}
+
+.blog-line{
+    position: absolute;
+    width: 160px;
+    margin-left: 195px;
+    line-height: 25px;
+    margin-top: 100px;
+}
+
+.card-text {
+    color: #ED6B4F;
+}
+
+
+
+.card{
+    height: 330px;
+    border-radius: 18px !important;
+    box-shadow: 2px 2px 15px;
+    margin-bottom: 15px;
+        
+}
+.row-cource{
+    padding-top: 0;
+}
+
+
+
+
+
